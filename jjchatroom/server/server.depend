@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1609729899 source:c:\users\lijie\desktop\计算机网络课程设计\jjchatroom\server\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<winsock2.h>
+	<time.h>
+	"conio.h"
+	<windows.h>
+	<process.h>
+	<math.h>
+	<iostream>
+

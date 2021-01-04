@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1609729878 source:c:\users\lijie\desktop\计算机网络课程设计\jjchatroom\client\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<winsock2.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<process.h>
+	<math.h>
+	<iostream>
+
