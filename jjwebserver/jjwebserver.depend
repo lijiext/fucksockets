@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609724809 source:c:\users\lijie\desktop\计算机网络课程设计\jjwebserver\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<bits/stdc++.h>
+	<WinSock2.h>
+

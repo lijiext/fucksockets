@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609722340 source:c:\users\lijie\desktop\计算机网络课程设计\jjproxy\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<iostream>
+	<WinSock2.h>
+	<Windows.h>
+	<map>
+
