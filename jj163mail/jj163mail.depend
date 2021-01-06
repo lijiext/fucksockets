@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609920380 source:c:\users\lijie\desktop\计算机网络课程设计\git\jj163mail\main.cpp
+	<iostream>
+	<string>
+	<WinSock2.h>
+
